@@ -2,9 +2,9 @@ import java.util.*;
 public class MyClass {
 
 	public static void main(String[] args) {
-		Myclass obj=new Myclass();
+		MyClass obj=new MyClass();
 		try {
-			obj.math();
+		obj.math();
 			
 		}
 		catch(ArithmaticException e) 

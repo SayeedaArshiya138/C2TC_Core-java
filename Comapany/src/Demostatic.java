@@ -5,7 +5,8 @@ public class Demostatic {
 	}
 
 	public static void main(String[] args) {
-		for(int i=0;i<3;i++) {
+		int i;
+		for( i=0;i<3;i++) {
 			System.out.println(i);// TODO Auto-generated method stub
 		}
 		System.out.println(i);

@@ -2,7 +2,7 @@
 public class Myclassss {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-          System.out.println(MyClassss.myMethod());
+          System.out.println(Myclassss.myMethod());
           
 	}
 	public static int myMethod() {
@@ -11,10 +11,10 @@ public class Myclassss {
 		}
 		finally {
 			System.out.println("This is Finally Block");
-			System.out.println("Finally block ran even after return staement";);
+			System.out.println("Finally block ran even after return staement");
 		}
 	}
 
 }
 
-}
+

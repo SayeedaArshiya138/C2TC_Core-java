@@ -20,7 +20,7 @@ public class FirstProgramm {
   System.out.println(res);
  System.out.println(a=b);
  System.out.println(c=d);
- System.out.println(d ** c);
+ System.out.println(d*c);
  
 	}
 
