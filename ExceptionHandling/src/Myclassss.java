@@ -11,7 +11,7 @@ public class Myclassss {
 		}
 		finally {
 			System.out.println("This is Finally Block");
-			System.out.println("Finally block ran even after return staement");
+			System.out.println("Finally block ran even after return statement");
 		}
 	}
 

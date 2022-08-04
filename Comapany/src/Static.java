@@ -26,7 +26,7 @@ public class Static {
 			// TODO Auto-generated method stub
 	         Static s1=new Static(111,"Karan");
 	         Static s2=new Static(112,"Aryan");
-	         change();
+	         change();//without creating an object a static method can be called
 	         s1.display();
 	         s2.display();
 		}

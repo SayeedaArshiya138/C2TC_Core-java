@@ -4,7 +4,7 @@ public class MyClass {
 	public static void main(String[] args) {
 		MyClass obj=new MyClass();
 		try {
-		obj.math();
+		obj.Main1();
 			
 		}
 		catch(ArithmaticException e) 
